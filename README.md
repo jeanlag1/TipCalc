@@ -30,7 +30,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was really funny struggling to find the correct emoji for each range of tip percentage.
 
 ## License
 
