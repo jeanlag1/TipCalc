@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 The following **extensions** are implemented:
 
 * [x] Custom colors palette selected
-* [ ] Included emojis to describe tip percentage
+* [x] Included emojis to describe tip percentage
 
 ## Video Walkthrough
 
